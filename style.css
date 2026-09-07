@@ -1,0 +1,11 @@
+body {
+display:flex;
+}
+section{
+height: 20dvh;
+width:20dvw;
+border:1px solid blueviolet;
+border-radius: 20px;}
+section{background-color: pink;}
+
+body{background-color: rgb(213, 213, 252);}
