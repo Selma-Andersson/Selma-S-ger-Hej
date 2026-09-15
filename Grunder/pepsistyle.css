@@ -1,1 +1,7 @@
-body{background-color:rgb(252, 221, 226);}
+body{
+background-color:rgb(249, 226, 227);
+background-image:url(imgs/3200679782b25f5c1cc05c3efdd3d1e5.jpg);
+background-repeat: no-repeat;
+background-size: contain;
+background-attachment: fixed;
+background-position: bottom right;}
